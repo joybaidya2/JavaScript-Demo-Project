@@ -1,1 +1,1 @@
-# Abakig clock using pure HTML, CSS and JavaScirpt
+# Analog clock using pure HTML, CSS and JavaScirpt
